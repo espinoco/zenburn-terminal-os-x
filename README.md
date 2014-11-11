@@ -1,5 +1,3 @@
-[TOC]
-
 #### A screen shot is worth a thousand words
 
 Images of terminal running [fish](http://fishshell.com/).
