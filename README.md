@@ -20,17 +20,10 @@ Vim explore screen shot
 
 ![Screen shot vim explore](screen-shots/screen-shot-vim-explore.png)
 
+iTerm screen shot
+
+![Screen shot iTerm](screen-shots/screen-shot-iterm.png)
+
 #### About
 
 This project aims to bring a Zenburn terminal color scheme for OS X that is faithful to original Zenburn color scheme for Vim.
-
-#### Installation
-
-- Open terminal
-- Preferences
-- Click the gear
-- Import...
-- Browse to `Zenburn.terminal` file and select Open
-- Select Zenburn on the left pane
-- Hit Default to make it your default color scheme
-- Launch a new terminal window to see the results
