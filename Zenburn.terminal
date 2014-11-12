@@ -163,6 +163,8 @@
 	</data>
 	<key>BackgroundSettingsForInactiveWindows</key>
 	<true/>
+	<key>Bell</key>
+	<false/>
 	<key>BlinkText</key>
 	<true/>
 	<key>CursorBlink</key>
