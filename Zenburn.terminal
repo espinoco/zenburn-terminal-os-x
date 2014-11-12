@@ -238,6 +238,8 @@
 	<true/>
 	<key>UseBrightBold</key>
 	<true/>
+	<key>VisualBell</key>
+	<true/>
 	<key>name</key>
 	<string>Zenburn</string>
 	<key>type</key>
