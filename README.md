@@ -8,7 +8,7 @@ Another terminal screen shot
 
 ![Screen shot terminal example 0](screen-shots/screen-shot-terminal-example-0.png)
 
-Vim screen shot (to compare)
+MacVim screen shot (to compare)
 
 ![Screen shot vim](screen-shots/screen-shot-vim.png)
 
@@ -16,7 +16,7 @@ Terminal screen shot showing folders
 
 ![Screen shot terminal folders](screen-shots/screen-shot-terminal-folders.png)
 
-Vim explore screen shot
+MacVim explore screen shot
 
 ![Screen shot vim explore](screen-shots/screen-shot-vim-explore.png)
 
@@ -26,4 +26,4 @@ iTerm screen shot
 
 #### About
 
-This project aims to bring a Zenburn terminal color scheme for OS X that is faithful to original Zenburn color scheme for Vim.
+This project aims to bring a Zenburn terminal color scheme for OS X based on how MacVim looks with Zenburn color scheme for Vim.
