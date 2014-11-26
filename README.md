@@ -24,6 +24,10 @@ iTerm screen shot
 
 ![Screen shot iTerm](screen-shots/screen-shot-iterm.png)
 
+Terminal screen shot running zsh
+
+![Screen shot terminal with zsh](screen-shots/screen-shot-zsh.png)
+
 #### About
 
 This project aims to bring a Zenburn terminal color scheme for OS X based on how MacVim looks with Zenburn color scheme for Vim.
